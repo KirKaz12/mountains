@@ -1,0 +1,5 @@
+
+.icon-file:before { content: '\e800'; } /* '' */
+.icon-book:before { content: '\e801'; } /* '' */
+.icon-user:before { content: '\e802'; } /* '' */
+.icon-tick:before { content: '\e803'; } /* '' */
